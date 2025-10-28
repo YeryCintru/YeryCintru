@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yeray "YeryCintru" Navascués</h1>
+<h1 align="center">Hi 👋, I'm Yeray Navascués "YeryCintru"</h1>
 <h3 align="center">Last-year Computer Science student passionate about Machine Learning, innovative projects, and building fun apps</h3>
 
 - 🔭 I’m currently working on **Accenture - SalesForce**  
