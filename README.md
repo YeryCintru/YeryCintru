@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Accenture - SalesForce**  
 - 🌱 I’m diving deep into **Data Science** and **AI**  
-- 📫 You can reach me at **yerynavas@gmail.com**  
+- 📫 You can reach me at **yerynavas@gmail.com**
+- 🌐 Visit my webise! https://yeray-showcase.lovable.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
