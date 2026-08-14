@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yeray Navascués "YeryCintru"</h1>
 <h3 align="center">Last-year Computer Science student passionate about Machine Learning, innovative projects, and building fun apps</h3>
 
-- 🔭 I’m currently working on **Accenture - SalesForce**  
-- 🌱 I’m diving deep into **Data Science** and **AI**  
+- 🔭 I’m currently looking for a job opporunity 
+- 🌱 I’m diving deep into **backend**, **JavaScript**,**Java**, **Git CI/CD**
 - 📫 You can reach me at **yerynavas@gmail.com**
-- 🌐 Visit my webise! https://yeray-showcase.lovable.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
