@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeray Navascués "YeryCintru"</h1>
-<h3 align="center">Last-year Computer Science student passionate about Machine Learning, innovative projects, and building fun apps</h3>
+<h3 align="center">Just graduated computer science student, innovative projects, and building fun apps</h3>
 
 - 🔭 I’m currently looking for a job opporunity 
 - 🌱 I’m diving deep into **backend**, **JavaScript**,**Java**, **Git CI/CD**
