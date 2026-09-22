@@ -53,11 +53,9 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YeryCintru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeryCintru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=YeryCintru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs?username=YeryCintru&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" />
 </p>
-
----
 
 <p align="center">
   <sub>💡 <i>"Construyendo soluciones limpias y escalables, commit a commit."</i></sub>
