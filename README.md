@@ -88,6 +88,18 @@ A lo largo de mi Grado en Ingeniería Informática, mi experiencia internacional
 
 👉 [**Ver Repositorio del Proyecto**](https://github.com/YeryCintru/sistemaVerificacionIndustrialTraz) • [**Descargar Ejecutable v1.0.0**](https://github.com/YeryCintru/sistemaVerificacionIndustrialTraz/releases/tag/v1.0.0)
 
+#### 🎟️ 2. EventBooking — Plataforma de Microservicios para Reserva de Entradas
+> **Sistema distribuido cloud-native para la gestión de eventos, control de aforo y reserva de entradas escalable.**
+
+- **Desafío Técnico:** Diseñar una arquitectura orientada a microservicios altamente disponible con persistencia aislada por servicio, garantizando la consistencia en las reservas y una comunicación inter-servicio resiliente y de baja latencia.
+- **Arquitectura & Solución:**
+  * **Backend & Microservicios:** Arquitectura desacoplada en **Java 21 + Spring Boot 3** estructurada según el patrón *Database per Service* en 3 dominios autónomos (*Auth*, *Event* y *Booking*).
+  * **Comunicación & Seguridad:** Integración declarativa entre servicios mediante **Spring Cloud OpenFeign** y control de accesos/sesiones *stateless* centralizado con **JWT (JSON Web Tokens)**.
+  * **Infraestructura & DevOps:** Persistencia aislada con **PostgreSQL**, empaquetado *multi-stage* en **Docker**, orquestación mediante manifiestos de **Kubernetes** (Kind/Minikube) y pipeline de **CI/CD con GitHub Actions**.
+  * **Frontend Web:** Aplicación SPA reactiva construida con **React + TypeScript + Vite**, servida en producción a través de **Nginx**.
+
+👉 [**Ver Repositorio del Proyecto**](https://github.com/YeryCintru/EventBooking)
+
 ---
 
 ### 📊 Estadísticas de GitHub
