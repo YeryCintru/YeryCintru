@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Yeray+Navascués+👋;Software+Engineer+%7C+Backend+Specialist;Java+%7C+Spring+Boot+%7C+Node.js+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Yeray+Navascués+👋;FullStack+developer+%7C+;Java+%7C+React+SQL+%7C+AWS+%7C+Docker" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <b>Ingeniero de Software</b> enfocado en el desarrollo backend, sistemas distribuidos, microservicios y arquitectura escalable.
+  <b>Full-Stack Developer</b> | Java, React, SQL, AWS
 </p>
 
 <p align="center">
@@ -19,18 +19,25 @@
 
 ### 🚀 Sobre mí
 
-Soy un **Ingeniero de Software** apasionado por el desarrollo backend, los sistemas distribuidos y la arquitectura de software moderna. Mi foco principal se centra en la construcción de **APIs robustas**, el desarrollo de aplicaciones corporativas con **Java y Spring Boot**, y la orquestación de entornos contenedorizados mediante **Docker**.
-
-A lo largo de mi Grado en Ingeniería Informática, mi experiencia internacional (**Erasmus en Alemania**) y mi trayectoria profesional en **Accenture**, he desarrollado una sólida base técnica en ecosistemas backend, bases de datos y buenas prácticas de *clean code*.
-
-#### 💡 Aspectos clave de mi experiencia:
-- **Dominio de Backend y Sector Bancario:** Desarrollo de lógica backend clave utilizando Java y SQL/Oracle para el procesamiento de grandes volúmenes de datos, optimización de consultas en bases de datos y reducción de incidencias previas al despliegue mediante pruebas unitarias (JUnit).
-- **Capacidad Full-Stack:** Construcción de componentes de interfaz de usuario adaptativos y aplicaciones de escritorio utilizando React, TypeScript y Electron.
-- **Buenas Prácticas de Ingeniería:** Trabajo en equipos ágiles multidisciplinares (Scrum), utilizando Git, pipelines de CI/CD y arquitectura de microservicios.
-
-🎯 **Objetivo Actual:** Me encuentro en búsqueda activa de nuevas oportunidades en ingeniería de software backend donde pueda contribuir en sistemas escalables y de alto impacto, así como seguir creciendo en un equipo colaborativo.
+Desarrollador Full-Stack con más de un año de experiencia programando en Java para backend y en React para frontend utilizando SQL como lenguaje de consulta y desplegando en AWS. Cuento con experiencia en el sector bancario y retail aparte de proyectos internacionales. Tengo un nivel alto de Inglés y Alemán intermedio.
 
 ---
+
+### 👨‍💼 Experiencia
+
+Freelance, España (remoto)- Full-Stack Software Developer, FEBRERO 2026-ACTUALIDAD
+
+- Sistema de trazabilidad y verifi cación industrial (TFG) : Sistema cliente-servidor para trazabilidad y control de la calidad en la Industria 4.0 en PYMES (sector industrial).
+  - Stack: TypeScript, Node.js, Electron, React, REST APIs, WebSocket, Docker.
+- Event Booking: Plataforma profesional para reserva de eventos municipales (sector ticketing).
+  - Stack: Java, Microservicios, React, Docker, Kubernetes, Spring Boot, REST APIs
+
+Accenture, Zaragoza - Full-Stack Software Developer, OCTUBRE 2025-JUNIO 2026
+- Desarrollé soluciones software y lógica de negocio backend con Java y frontend en React para Cajamar (Banca) y Mahou (Retail).
+- Esquemas relacionales avanzados y consultas SQL.
+- Control de calidad del software con test unitarios, alcanzando cobertura >85%.
+  - Stack: Java, React, SQL, AWS.
+
 
 ### 🛠️ Stack Principal y Aptitudes Técnicas
 
@@ -39,9 +46,7 @@ A lo largo de mi Grado en Ingeniería Informática, mi experiencia internacional
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/ANSI_C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
 </p>
 
 #### 🗄️ Bases de Datos & DevOps
@@ -76,7 +81,7 @@ A lo largo de mi Grado en Ingeniería Informática, mi experiencia internacional
 ### 💻 Proyectos Destacados
 
 #### 🏭 1. Sistema de Verificación y Trazabilidad Industrial (TFG)
-> **Sistema distribuido cliente-servidor para la gestión, control de producción y verificación de calidad en planta industrial.**
+> **Sistema cliente-servidor para trazabilidad y control de la calidad en la Industria 4.0 en PYMES (sector industrial).**
 
 * **Desafío Técnico:** Garantizar la sincronización bidireccional y comunicación en tiempo real entre terminales de planta, paneles de control web y un servidor centralizado con baja latencia.
 * **Arquitectura & Solución:**
@@ -89,7 +94,7 @@ A lo largo de mi Grado en Ingeniería Informática, mi experiencia internacional
 👉 [**Ver Repositorio del Proyecto**](https://github.com/YeryCintru/sistemaVerificacionIndustrialTraz) • [**Descargar Ejecutable v1.0.0**](https://github.com/YeryCintru/sistemaVerificacionIndustrialTraz/releases/tag/v1.0.0)
 
 #### 🎟️ 2. EventBooking — Plataforma de Microservicios para Reserva de Entradas
-> **Sistema distribuido cloud-native para la gestión de eventos, control de aforo y reserva de entradas escalable.**
+> **Plataforma profesional para reserva de eventos municipales (sector ticketing).**
 
 - **Desafío Técnico:** Diseñar una arquitectura orientada a microservicios altamente disponible con persistencia aislada por servicio, garantizando la consistencia en las reservas y una comunicación inter-servicio resiliente y de baja latencia.
 - **Arquitectura & Solución:**
