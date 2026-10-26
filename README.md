@@ -25,14 +25,14 @@ Desarrollador Full-Stack con más de un año de experiencia programando en Java 
 
 ### 👨‍💼 Experiencia
 
-Freelance, España (remoto)- Full-Stack Software Developer, FEBRERO 2026-ACTUALIDAD
+**Freelance, España (remoto)- Full-Stack Software Developer, FEBRERO 2026-ACTUALIDAD**
 
 - Sistema de trazabilidad y verifi cación industrial (TFG) : Sistema cliente-servidor para trazabilidad y control de la calidad en la Industria 4.0 en PYMES (sector industrial).
   - Stack: TypeScript, Node.js, Electron, React, REST APIs, WebSocket, Docker.
 - Event Booking: Plataforma profesional para reserva de eventos municipales (sector ticketing).
   - Stack: Java, Microservicios, React, Docker, Kubernetes, Spring Boot, REST APIs
 
-Accenture, Zaragoza - Full-Stack Software Developer, OCTUBRE 2025-JUNIO 2026
+**Accenture, Zaragoza - Full-Stack Software Developer, OCTUBRE 2025-JUNIO 2026**
 - Desarrollé soluciones software y lógica de negocio backend con Java y frontend en React para Cajamar (Banca) y Mahou (Retail).
 - Esquemas relacionales avanzados y consultas SQL.
 - Control de calidad del software con test unitarios, alcanzando cobertura >85%.
